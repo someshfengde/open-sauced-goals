@@ -1,51 +1,51 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 707,
+    "stargazers_count": 708,
     "open_issues_count": 17,
     "forks_count": 293
   },
   {
     "full_name": "apple/ml-cvnets",
-    "stargazers_count": 762,
+    "stargazers_count": 777,
     "open_issues_count": 14,
-    "forks_count": 93
+    "forks_count": 95
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 34633,
-    "open_issues_count": 266,
-    "forks_count": 2048
+    "stargazers_count": 34718,
+    "open_issues_count": 284,
+    "forks_count": 2067
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 13673,
-    "open_issues_count": 521,
-    "forks_count": 1736
+    "stargazers_count": 13704,
+    "open_issues_count": 535,
+    "forks_count": 1743
   },
   {
     "full_name": "JuliaLang/julia",
-    "stargazers_count": 39661,
-    "open_issues_count": 4182,
+    "stargazers_count": 39674,
+    "open_issues_count": 4187,
     "forks_count": 4936
   },
   {
     "full_name": "mrdbourke/tensorflow-deep-learning",
-    "stargazers_count": 2636,
+    "stargazers_count": 2649,
     "open_issues_count": 7,
-    "forks_count": 1182
+    "forks_count": 1190
   },
   {
     "full_name": "AnnMarieW/dash-app-gallery",
     "stargazers_count": 12,
-    "open_issues_count": 13,
+    "open_issues_count": 11,
     "forks_count": 8
   },
   {
     "full_name": "PyTorchLightning/pytorch-lightning",
-    "stargazers_count": 18997,
-    "open_issues_count": 474,
-    "forks_count": 2468
+    "stargazers_count": 19115,
+    "open_issues_count": 475,
+    "forks_count": 2472
   },
   {
     "full_name": "ashikshafi08/learning_to_see_in_the_dark_Fastai",
